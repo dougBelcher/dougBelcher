@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Twitter Follow](https://img.shields.io/twitter/follow/dougbelcher?style=social)![GitHub followers](https://img.shields.io/github/followers/dougBelcher?style=social)
-<!-- ![Mastodon Follow](https://img.shields.io/mastodon/follow/dougBelcher?domain=http%3A%2F%2Ftwit.social&style=social) -->
+![Twitter Follow](https://img.shields.io/twitter/follow/dougbelcher?style=social)![GitHub followers](https://img.shields.io/github/followers/dougBelcher?style=social)![Mastodon Follow](https://img.shields.io/mastodon/follow/dougBelcher?domain=http%3A%2F%2Ftwit.social&style=social)
