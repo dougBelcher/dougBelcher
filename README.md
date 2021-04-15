@@ -1,4 +1,4 @@
-### Hi there 👋 width="30px">, I am Doug Belcher!
+### Hi there 👋, I am Doug Belcher!
 
 <!--
 **dougBelcher/dougBelcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
