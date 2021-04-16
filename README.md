@@ -27,4 +27,4 @@ I don't have any channels or blogs.
 🧰 Toolbox
 
 ---
-https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg
+https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-plain.svg
