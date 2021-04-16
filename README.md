@@ -16,3 +16,15 @@ Here are some ideas to get you started:
 -->
 ![Twitter Follow](https://img.shields.io/twitter/follow/dougbelcher?style=social)![GitHub followers](https://img.shields.io/github/followers/dougBelcher?style=social)
 <!-- ![Mastodon Follow](https://img.shields.io/mastodon/follow/dougBelcher?domain=http%3A%2F%2Ftwit.social&style=social) -->
+An IT Application Specialist working in RPG on the IBM i in JDE A7.3 World.
+
+I'm trying to learn Python on a PC, Ubuntu, and the IBM i.
+
+I don't have any channels or blogs.
+
+---
+
+🧰 Toolbox
+
+---
+https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg
