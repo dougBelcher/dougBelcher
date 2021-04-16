@@ -27,5 +27,4 @@ I don't have any channels or blogs.
 🧰 Toolbox
 
 ---
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-plain.svg" alt="git Logo" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-plain.svg" alt="Python Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/git/git-plain.svg" alt="git Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/python/python-plain.svg" alt="Python Logo" width="50" height="50"/>
